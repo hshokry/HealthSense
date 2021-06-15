@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "139592590051",
+    "firebase_url": "https://healthguardian-2ebc7-default-rtdb.firebaseio.com",
+    "project_id": "healthguardian-2ebc7",
+    "storage_bucket": "healthguardian-2ebc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139592590051:android:aa47d2b7281d1a78205bd6",
+        "android_client_info": {
+          "package_name": "com.healthguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139592590051-47calh39m8mucj578rger6mgc1tc3jho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRR9UHA4BaHFnqBGi4E7t8ZDB7hJFMUFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139592590051-47calh39m8mucj578rger6mgc1tc3jho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139592590051:android:37adc6f40fdb65e1205bd6",
+        "android_client_info": {
+          "package_name": "com.healthpod.healthsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139592590051-4m3a712rln35neb7nos1o4vnv7bhmt8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthpod.healthsense",
+            "certificate_hash": "acd7f21a146e27f74049abfbeb945cfd5e6e51c2"
+          }
+        },
+        {
+          "client_id": "139592590051-47calh39m8mucj578rger6mgc1tc3jho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRR9UHA4BaHFnqBGi4E7t8ZDB7hJFMUFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139592590051-47calh39m8mucj578rger6mgc1tc3jho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="oxygen_saturation">oxygen saturation</string>
+    <string name="blood_pressure">blood pressure</string>
+    <string name="temperature">temperature</string>
+    <string name="glucose">glucose</string>
+    <string name="otoscope">otoscope</string>
+    <string name="stethoscope">stethoscope</string>
+
+    <string name="app_name">HealthSense</string>
+    <string name="preview_area">Preview Area</string>
+    <string name="capture">Capture</string>
+    <string name="SPO2">SPO2</string>
+    <string name="Otoscope">Otoscope</string>
+</resources>
